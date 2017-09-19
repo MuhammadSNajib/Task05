@@ -9,7 +9,7 @@ import Footer1 from '../component/footer';
 export default class Index extends Component {
   render() {
     return (
-      <Container>
+      <Container style={{backgroundColor:'#fff'}}>
 
         {/* HEADER from ../component/header */}
         <Header1/>
